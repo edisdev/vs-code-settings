@@ -1,0 +1,60 @@
+
+{
+    "terminal.integrated.shellArgs.osx": [],
+    "workbench.colorTheme": "ƒ - One Dark - Operator Mono/Italic",
+    "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.colorCustomizations": {
+      "editor.background": "#000",
+      "sideBar.background": "#000",
+      "tab.activeBorderTop": "#ffbb00",
+      "tab.activeBackground": "#000",
+      "activityBarBadge.background": "#ffbb00",
+      "terminal.background": "#000",
+      "panel.background": "#000",
+      "panelTitle.activeBorder": "#ffbb00",
+      "editorLineNumber.activeForeground": "#ffbb00",
+      "editorIndentGuide.activeBackground": "#00eeffb6",
+      "editor.lineHighlightBackground": "#000"
+    },
+    "editor.fontFamily": "Operator Mono",
+    "editor.fontWeight": "100",
+    "vetur.completion.tagCasing": "kebab",
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true, 
+    "terminal.integrated.fontSize": 14,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue"
+    ],
+    "debug.node.autoAttach": "off",
+    "workbench.settings.editor": "json",
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.rendererType": "dom",
+    "powermode.enableStatusBarComboTimer": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[css]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.renderWhitespace": "all",
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.jediEnabled": false,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    }
+  }
+  
